@@ -1,0 +1,12 @@
+streamlit==1.26.0
+openai==0.27.8
+audio-recorder-streamlit==0.1.5
+python-dotenv==1.0.0
+pytz==2023.3
+pillow==9.4.0
+langchain==0.0.270
+bs4==0.0.1
+regex==2023.6.3
+faster-whisper==0.5
+google-generativeai==0.2.4
+chromadb==0.4.2
