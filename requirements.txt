@@ -37,5 +37,6 @@ PyPDF2
 tiktoken
 langchain-community
 pysqlite3-binary==0.5.3
-audio_recorder_streamlit
+audio-recorder-streamlit==0.0.10
+
 pytz
